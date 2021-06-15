@@ -1,0 +1,8 @@
+{
+    "name": "CTimers",
+    "entry": "index.js",
+    "author": "GreatKhanz",
+    "description": "Adds timers for multiple things",
+    "version": "0.0.1",
+    "requires": ["SettingsManager"]
+}

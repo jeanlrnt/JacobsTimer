@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Main",
+    "settings": [
+      {
+        "type": "toggle",
+        "name": "Enabled",
+        "value": true,
+        "hidden": false
+      },
+      {
+        "type": "slider",
+        "name": "Timer X",
+        "value": 5,
+        "min": 1,
+        "max": 427,
+        "round": 1,
+        "hidden": false
+      },
+      {
+        "type": "slider",
+        "name": "Timer Y",
+        "value": 5,
+        "min": 1,
+        "max": 240,
+        "round": 1,
+        "hidden": false
+      },
+      {
+        "type": "color_picker",
+        "name": "Show Time",
+        "value": [
+          0,
+          253,
+          1
+        ],
+        "hidden": false
+      },
+      {
+        "type": "color_picker",
+        "name": "Hot Color Time",
+        "value": [
+          255,
+          130,
+          0
+        ],
+        "hidden": false
+      },
+      {
+        "type": "color_picker",
+        "name": "Active Time",
+        "value": [
+          255,
+          0,
+          0
+        ],
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "name": "J",
+    "settings": [
+      {
+        "type": "toggle",
+        "name": "Enabled",
+        "value": true,
+        "hidden": false
+      },
+      {
+        "type": "text_input",
+        "name": "Name",
+        "text": "Jacob",
+        "hidden": false
+      },
+      {
+        "type": "slider",
+        "name": "Show Time (seconds)",
+        "value": 21600,
+        "min": 1,
+        "max": 21600,
+        "round": 1,
+        "hidden": false
+      },
+      {
+        "type": "slider",
+        "name": "Hot Color Time (seconds)",
+        "value": "2002.9",
+        "min": 1,
+        "max": 21600,
+        "round": 1,
+        "hidden": false
+      },
+      {
+        "type": "text_input",
+        "name": "Crops",
+        "text": "Cac,Car,Coc,Mel,Mush,Wart,Pot,Pump,Sugar,Wheat",
+        "hidden": false
+      }
+    ]
+  }
+]
