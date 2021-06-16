@@ -1,8 +1,8 @@
 {
-    "name": "CTimers",
+    "name": "JacobsTimer",
     "entry": "index.js",
-    "author": "GreatKhanz",
-    "description": "Adds timers for multiple things",
+    "author": "virusking",
+    "description": "Adds timers for Jacob's Events",
     "version": "0.0.1",
     "requires": ["SettingsManager"]
 }
